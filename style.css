@@ -37,7 +37,7 @@ header .container {
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 76px;
-    background-image: url(/logo.svg);
+    background-image: url("./logo.svg");
     background-repeat: no-repeat;
     background-size: 53px;
     background-position: 16px 10px;
